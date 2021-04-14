@@ -1,0 +1,23 @@
+.create-product .options-moneyy{
+    display: flex;
+    width: 288px;    
+}
+.options-moneyy {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: left;
+}
+.options-moneyy img {
+    width: 24px;
+}
+.containerr {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 50px 5px 20px;
+    justify-content: center;
+}
+.plans-container--slider {
+    justify-content: center;
+}
